@@ -1,1 +1,1 @@
-banking sample project which uses machine learning in a multiple hop python flask project to predict the subscription of term deposit by a client of the bank based on many matrix using logistic regression.
+Banking sample project which uses machine learning in a multiple hop python flask project to predict the subscription of term deposit by a client of the bank based on many matrix using logistic regression.
